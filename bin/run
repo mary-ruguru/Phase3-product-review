@@ -2,10 +2,10 @@
 require 'pry'
 require_relative '../config/environment'
 
-#product=Product.create(name: "Blow Dryer")
-#product1 = Product.create(name: "Nokia X-30")
-#product2 = Product.create(name: "Rexona")
-#product3 = Product.create(name: "JVC Speakers")
+#product=Product.create(name: "Mary Ann")
+#product1 = Product.create(name: "Ann Mary")
+#product2 = Product.create(name: "Ruguru")
+#product3 = Product.create(name: "Earphones")
 #user1 = User.create(name: "Felix Johnson")
 #user2 = User.create(name: "Reese Wayne")
 #user3 = User.create(name: "Clark Tent")
