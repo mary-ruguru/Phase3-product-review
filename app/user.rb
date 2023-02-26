@@ -9,6 +9,7 @@ class User < ApplicationRecord::Base
         self.products.find(rev1.product_id)
     end
 
+   
     def remove_reviews(product)
         @product=product
         prod=self.products.find_by(name: @product)
