@@ -5,5 +5,6 @@ class Review < ApplicationRecord::Base
 
     def print_review
         return "Review for #{self.product.name} by #{self.user.name}: #{self.star_rating}. #{self.comment}"
+   
     end
 end
