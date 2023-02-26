@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
+#all the gems needed
 
 gem "sinatra-activerecord"
 gem "rake"
