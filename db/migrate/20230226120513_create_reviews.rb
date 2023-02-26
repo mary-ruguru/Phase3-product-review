@@ -6,7 +6,7 @@ class CreateReviews < ActiveRecord::Migration[7.0]
       t.integer :user_id
       t.integer :product_id
 
-      t.tumes
+      
       
     end  
   end
