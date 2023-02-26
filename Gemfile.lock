@@ -5,6 +5,7 @@ GIT
   specs:
     faker (3.1.1)
       i18n (>= 1.8.11, < 2)
+      j/ioj;
 
 GEM
   remote: https://rubygems.org/
