@@ -21,4 +21,5 @@ class Product < ApplicationRecord::Base
         rating = self.reviews.map {|r| r.star_rating}
         rating.sum(0.0) / rating.size
     end
+    
 end
